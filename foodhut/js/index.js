@@ -36,7 +36,7 @@ $(window).on( 'load' , function(){
 
 	// loading the dynamic food content on the page....
 	async function getFoodAndShow(){
-		const food = await fetch('./data.json');
+		const food = await fetch('../data.json');
 		const res = await food.json();
 		const data = res.meals;
 

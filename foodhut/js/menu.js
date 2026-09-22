@@ -1,6 +1,6 @@
 
 async function getItem(){
-	let data = await fetch("./item.json");
+	let data = await fetch("../item.json");
 	let item = await data.json();
 	let foodItem = item.meals;
 	return foodItem;
