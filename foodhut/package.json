@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "sass": "sass -w dist/:css/"
+  },
+
+  "devDependencies": {
+    "sass": "^1.104.1"
+  }
+}

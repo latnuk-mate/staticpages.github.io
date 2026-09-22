@@ -1,0 +1,84 @@
+{
+    "meals" : [
+        {
+            "type" : "pizza",
+            "strMeal" : "Cheesy Margherita",
+            "description" : "Savor the simplicity of the Margherita: a perfect harmony of tangy tomato sauce, creamy mozzarella, and fragrant basil, all on a crisp, golden crust.",
+            "price" : 299,
+            "discountPrice" : 199,
+            "strMealThumb" : "/imgs/Margherita.jpg"
+        },
+
+        {
+            "type" : "burger",
+            "strMeal" : "Classic Cheese",
+            "description" : "A juicy beef patty topped with melted cheese, lettuce, tomato, onion, pickles, and condiments like ketchup and mustard, all sandwiched between a soft bun.",
+            "price" : 249,
+            "discountPrice" : 179,
+            "strMealThumb" : "/imgs/burger1.jpg"
+        },
+
+        {
+            "type" : "pizza",
+            "strMeal" : "Hawaiian Pizza Paradise",
+            "description" : "Dive into a taste of the tropics with our Hawaiian pizza! Savory ham, sweet pineapple, and melted cheese atop a golden crust - a delicious getaway in every bite.",
+            "price" : 349,
+            "discountPrice" : 299,
+            "strMealThumb" : "/imgs/Hawaiian.jpg"
+        },
+
+        {
+            "type" : "pizza",
+            "strMeal" : "Pepperoni Temptation",
+            "description" : "Indulge in the classic comfort of Pepperoni: zesty tomato sauce, gooey mozzarella, and spicy slices of pepperoni, all baked to perfection on a golden crust.",
+            "price" : 149,
+            "discountPrice" : 99,
+            "strMealThumb" : "/imgs/pepperoni.jpg"
+        },
+
+        {
+            "type" : "pasta",
+            "strMeal" : "Delicious Pasta",
+            "description" : "Indulge in the ultimate comfort with our Bacon Cheeseburger! Juicy beef patty, crispy bacon, all nestled between soft buns for a savory delight that hits every craving.",
+            "price" : 249,
+            "discountPrice" : 149,
+            "strMealThumb" : "/imgs/pasta1.jpg"
+        },
+
+        {
+            "type" : "burger",
+            "strMeal" : "Bacon Cheese",
+            "description" : "Indulge in the ultimate comfort with our Bacon Cheeseburger! Juicy beef patty, crispy bacon, all nestled between soft buns for a savory delight that hits every craving.",
+            "price" : 349,
+            "discountPrice" : 299,
+            "strMealThumb" : "/imgs/burger2.jpg"
+        },
+
+        {
+            "type" : "pasta",
+            "strMeal" : "Spaghetti Carbonara",
+            "description" : "Indulge in the ultimate comfort with our Bacon Cheeseburger! Juicy beef patty, crispy bacon, all nestled between soft buns for a savory delight that hits every craving.",
+            "price" : 209,
+            "discountPrice" : 109,
+            "strMealThumb" : "/imgs/pasta2.jpg"
+        },
+
+        {
+            "type" : "burger",
+            "strMeal" : "Veggie Burger",
+            "description" : "Catering to vegetarians, this burger typically features a plant-based patty made from ingredients like black beans, topped with lettuce, tomato, and various sauces.",
+            "price" : 249,
+            "discountPrice" : 149,
+            "strMealThumb" : "/imgs/burger3.jpg"
+        },
+
+        {
+            "type" : "fries",
+            "strMeal" : "Golden Crisp Delights",
+            "description" : "Get ready to elevate your snacking game with our Golden Crisp Delights! Crispy on the outside, fluffy on the inside, these fries are the perfect indulgence for any occasion.",
+            "price" : 249,
+            "discountPrice" : 149,
+            "strMealThumb" : "/imgs/fries.jpg"
+        }
+]
+}
