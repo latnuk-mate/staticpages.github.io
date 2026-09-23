@@ -1,2 +1,7 @@
 # staticpages.github.io
-The public folder hosts static pages.
+
+## This is a brand promoting approach by building various static sites.
+
+# Food hut --> https://latnuk-mate.github.io/staticpages.github.io/foodhut/
+
+
